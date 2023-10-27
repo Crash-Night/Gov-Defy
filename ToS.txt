@@ -60,6 +60,3 @@ Al utilizar "Gov Defy," usted acepta cumplir con estos términos y condiciones. 
 Si tiene alguna pregunta o inquietud con respecto a estos términos y condiciones, por favor contáctenos en [correo electrónico de contacto].
 
 ====================================================================================================================================================
-
-LUA = True
-          
